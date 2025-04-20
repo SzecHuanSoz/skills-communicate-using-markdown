@@ -8,7 +8,7 @@ Added an h1 header to the index.md file in markdown format.
 
 ## Step 3: Adding a code example
 ``` python
-print("hello, world!:)
+print("hello, world!")
 ```
 
 ## Step 4: Adding a task list
